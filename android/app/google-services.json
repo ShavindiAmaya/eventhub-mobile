@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "87053939246",
+    "firebase_url": "https://eventhub-8ae47-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "eventhub-8ae47",
+    "storage_bucket": "eventhub-8ae47.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87053939246:android:f200a20c50192a330525bf",
+        "android_client_info": {
+          "package_name": "com.example.eventhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSG2NLDw12i3GEyGJxxJnUysHV73B32O8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
